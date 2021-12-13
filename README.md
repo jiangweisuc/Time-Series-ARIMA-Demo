@@ -5,4 +5,5 @@
 数据为WTI 石油价格指数，在data文件夹，下载后，请根据具体位置修改程序里的文件位置
 
 
-Figure
+数据初探
+![image](figures_for_read_me/Rplot09.png)
